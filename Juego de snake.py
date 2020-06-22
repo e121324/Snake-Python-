@@ -4,7 +4,7 @@ import random
 
 posponer = 0.1
 
-#Mercador
+#Marcador
 
 score = 0
 record = 0
